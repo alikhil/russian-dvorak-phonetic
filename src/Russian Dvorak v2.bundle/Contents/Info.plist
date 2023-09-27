@@ -5,11 +5,15 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.russianphoneticdvorak</string>
 	<key>CFBundleName</key>
-	<string>Russian Phonetic Dvorak</string>
+	<string>Russian Dvorak V2</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Russian Phonetic Dvorak</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.russianphoneticdvorak.russianphoneticdvorak</string>
 		<key>TISIntendedLanguage</key>
