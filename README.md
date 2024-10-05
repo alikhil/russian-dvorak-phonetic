@@ -2,6 +2,8 @@
 
 A Russian phonetic keyboard for Dvorak typists.
 
+It's a customized fork of [russian-dvorak-phonetic](https://github.com/capito-tar-gz/russian-dvorak-phonetic).
+
 **Bonus**: it support Bashkir letters with Option/Alt button.
 
 ## Why create this?
