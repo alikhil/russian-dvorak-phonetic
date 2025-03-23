@@ -6,6 +6,8 @@ It's a customized fork of [russian-dvorak-phonetic](https://github.com/capito-ta
 
 **Bonus**: it support Bashkir letters with Option/Alt button.
 
+![Russian Dvorak Phonetic Keyboard Layout](screenshots/no-modifiers.png)
+
 ## Why create this?
 
 I type in Dvorak on Mac OS, and there is no Russian phonetic option that maps to Dvorak keyboards. I've tried other solutions that have bugs, such as not mapping keys correctly on Shift or not having Dvorak when the Command key is held down. This is my solution for that.
